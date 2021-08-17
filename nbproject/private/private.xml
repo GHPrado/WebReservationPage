@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Persistencia/HabitacionJpaController.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/reserva.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Servlets/SvTPFinal_verifDispon.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Persistencia/HuespedJpaController.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/index.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/login.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listUsuarios.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listIngresos2.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/empleado.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasMes.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasHuesp.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasHuesp2.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Logica/Logica.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/habitacion.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/huesped.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listHuespedes.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/huesped_modif.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/usuario.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/usuario_modif.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasEmple2.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/reserva_sin%20uso.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listIngresos.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasEmple.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Persistencia/ReservaJpaController.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasMes2.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/css/general.css</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/src/java/Persistencia/UsuarioJpaController.java</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservasDia.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/encabezado.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/reservaReg.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listHabitaciones.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/listReservas.jsp</file>
+            <file>file:/C:/Users/horacio/Documents/NetBeansProjects/TPFinalV1_1/web/habitacion_modif.jsp</file>
+        </group>
+    </open-files>
+</project-private>
