@@ -1,0 +1,165 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/07/2021, 16:22:37
+    Author     : horacio
+
+
+*/
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+
+
+@keyframes anim{
+    0% {background-color: #33691E;color:#ff661a;} 
+    10% {background-color: #558B2F;color:#e64d00;} 
+    20% {background-color: #689F38;color:#cc4400;} 
+    30% {background-color: #7CB342;color:#b33c00;} 
+    40% {background-color: #8BC34A;color:#993300;} 
+    50% {background-color: #9CCC65;color: #802b00;} 
+    60% {background-color: #8BC34A;color:#993300;} 
+    70% {background-color: #7CB342;color:#b33c00;} 
+    80% {background-color: #689F38;color:#cc4400;} 
+    90% {background-color: #558B2F;color:#e64d00;} 
+    100% {background-color: #33691E;color:#ff661a;} 
+}
+
+
+/** para menues */
+
+* {
+    margin: 0 auto;
+    padding:0px;
+    line-height: 1.5;
+    font-size: 20px;
+    background-color:#9CCC65;
+    color:#993300;
+}
+
+#header {
+    margin: 0 auto;
+    width:900px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+.nav > li {
+    float:left;
+}
+
+.nav li a, a {
+    background-color:#558B2F;
+    color:#993300;
+    text-decoration:none;
+    padding:10px 15px;
+    display:block;
+    text-align: center;
+
+
+}
+
+.nav li a:hover , a:hover{
+    background-color:#689F38;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}
+
+.nav li ul li {
+    position:relative;
+}
+
+.nav li ul li ul {
+    right:-140px;
+    top:0px;
+}
+
+
+/** para forms */
+
+form {
+    overflow: hidden;
+    margin-left: 50px;
+
+}
+
+label {
+    float: left;
+    width: 250px;
+    padding-right: 24px;
+}
+
+input, select{
+    float: left;
+    width: calc(100px + 20%);
+    background-color: #F9FBE7;
+    box-shadow: 4px 4px 1px #558B2F;
+}
+
+.boton {
+    float: left;
+    width: calc(20%);
+    margin-top: 50px;
+    background-color: #558B2F;
+}
+
+h1 {
+
+    font-size:7vw;
+    text-align: center;
+    font-family: "Mystery Quest", cursive;
+    animation-name: anim;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+
+}
+
+h2 {
+
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h3, form {
+
+    margin: 0 auto;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+::placeholder {
+    color: blue;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+
+
+/** para tablas */
+
+table, th, td {
+    border-collapse: collapse;
+    border: none;
+    table-layout: fixed;
+    margin: 0 auto;
+    background-color: #7CB342;
+    width: 60%;
+
+} 
+
+
